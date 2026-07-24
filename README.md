@@ -126,15 +126,31 @@ http://localhost:9090
 
 ---
 
-## Screenshots
+## Screenshots after testing by using URL
 
-Add screenshots after deployment.
+##spring.io
 
-Suggested screenshots:
+![spring.io.png](screenshots%2Fspring.io.png)
 
-- Home Page
-- SEO Analysis Report
-- Invalid URL Error Handling
+##google.com
+
+![google.com.png](screenshots%2Fgoogle.com.png)
+
+##github.com
+
+![github.com.png](screenshots%2Fgithub.com.png)
+
+##https://openai.com
+
+![httpsopenai.com.png](screenshots%2Fhttpsopenai.com.png)
+
+##abcxyz123456789.com
+
+![abcxyz123456789.com.png](screenshots%2Fabcxyz123456789.com.png)
+
+##https://example.com/image.png
+
+![httpsexample.comimage.png.png](screenshots%2Fhttpsexample.comimage.png.png)
 
 ---
 
